@@ -1,5 +1,8 @@
 ### blackpuppy
 
-# Welcome to "Blackpuppy" Github profile
+## Welcome to "Blackpuppy dev" Github profile 🐶
 
-I'm working at Sabuy technology company
+"Blackpuppy.dev" is name of my project 💻
+
+
+Thank you 🎉✨
