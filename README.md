@@ -8,8 +8,8 @@
 - 🤖 My name is "Shopper" [Nattawut Chitsaad] 🙂
 - 🍀 I'm Android developer from Thailand 🇹🇭 currently living in Bangkok,Thailand.
 - 📚 I graduated for Bachelor's degree from the Department of Computing, Faculty of Science, Silpakorn University, Information Technology.📊
-- 📘 I’m currently learning kotlin for android , flutter and IOS platform. 💻
-- ⌨️ 1+ years of experience in developing enterprise
+- 📘 I’m currently learning kotlin for android and backend springboot. 💻
+- ⌨️ 2+ years of experience in developing enterprise
 
 #### 🛠  Language and Tools ✨
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
